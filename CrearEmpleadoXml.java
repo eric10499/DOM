@@ -32,7 +32,7 @@ public class CrearEmpleadoXml {
 				}
 			 	file.close();
 				
-			 	for(int i = 0; i < apellidos.size()-1; i++) {
+			 	for(int i = 0; i < apellidos.size(); i++) {
 					Element raiz = document.createElement ("empleado");
 					document.getDocumentElement().appendChild(raiz);
 					CrearElemento ("id", Integer.toString(ids.get(i)), raiz, document);
