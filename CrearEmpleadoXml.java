@@ -18,7 +18,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  * MA 02110-1301, USA.
  * 
- * Copia el programa anterior y ejecútalo
+ * Copia el programa anterior y ejecútalo. Vas a realizar exactamente lo mismo que en el programa anterior pero en vez de utilizar un fichero de acceso aleatorio (como era el caso de AleatorioEmpleado.dat) vas a utilizar un fichero de texto con los datos de los empleados. Es decir: a. Generar un archivo de texto que contendrá la información de cada empleado. Cada línea del archivo se asociará al id, apellido, departamento y salario de cada empleado. Cada uno de estos campos irá separado por el carácter “:” (Ejemplo: 1:Fernandez:10:1000.45). Llamarás al archivo “Empleados.txt” b. Generar el programa Java que genere el archivo XML correspondiente a los datos contenidos en Empleados.txt
  * 
  * Fet per Eric Visier Sánchez
  * 
